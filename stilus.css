@@ -1,0 +1,17 @@
+*{
+ box-sizing: border-box;
+}
+
+.main{
+    width:50px;
+
+}
+
+.tartalom{
+    display: grid;
+    grid-template-columns: 50px 50px 50px;
+}
+
+.tartalom div{
+
+}
